@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗜️ Image Compressor
+# 🖼️ Image Compressor
 
 ### Use Image Compressor free on ToolAdda — quick, accurate, and browser-based.
 
